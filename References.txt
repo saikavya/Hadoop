@@ -1,0 +1,5 @@
+1.https://www.youtube.com/watch?v=GWj3rSNuog0
+2.http://hadoop.apache.org/docs/r1.2.1/single_node_setup.html#Local
+3.http://gis.ncdc.noaa.gov/map/viewer/#app=cdo&cfg=cdo&theme=daily&layers=111&node=gis
+4.https://www.youtube.com/watch?v=Tl0I54eqxKo
+5.http://hadoop.apache.org/docs/r1.2.1/api/org/apache/hadoop/mapred/JobConf.html#setNumReduceTasks(int)
